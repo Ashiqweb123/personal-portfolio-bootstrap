@@ -1,0 +1,29 @@
+*
+{
+    font-family: Hind,sans-serif;
+}
+.bg-image 
+{
+    position: relative;
+    opacity: 60%;
+}
+
+.text-formate
+{
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.text-formate {
+    color:white;
+    font-weight: 900;
+}
+#name
+{
+    color:orangered;
+}
+.about-img
+{
+    opacity:70%;
+}
