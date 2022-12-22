@@ -31,3 +31,13 @@ body{
 {
     opacity:70%;
 }
+.contact-detail
+{
+    display: flex;
+   
+    align-items: stretch;
+}
+.link-detail
+{
+    text-decoration: none;
+}
